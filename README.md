@@ -28,7 +28,8 @@ The game ends when no more valid moves can be made, and the player with the most
   - Play against another person on the same device.
   - Challenge the computer in single-player mode.
 	
-**Windows Desktop Application**: Developed using Windows Forms and the .NET Framework, ensuring high performance and efficient operation on Windows devices.
+**Windows Desktop Application**: 
+Developed using Windows Forms and the .NET Framework, ensuring high performance and efficient operation on Windows devices.
 
 ## Technology Stack
 
